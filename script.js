@@ -1,4 +1,3 @@
-// Created by Ilavanya Jain
 document.addEventListener("DOMContentLoaded", function () {
   const cake = document.querySelector(".cake");
   const candleCountDisplay = document.getElementById("candleCount");

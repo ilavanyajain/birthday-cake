@@ -8,7 +8,7 @@ This Interactive Birthday Cake 🎂 project is a delightful web-based applicatio
 
 ## Author
 
-Created by **Ilavanya Jain**
+Created by **Lavanya Jain**
 
 ## Features
 
